@@ -211,7 +211,7 @@ service cloud.firestore {
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/finsight.git
+git clone https://github.com/Irfan211-prog/finsight.git
 ```
 
 Go to the project folder:
