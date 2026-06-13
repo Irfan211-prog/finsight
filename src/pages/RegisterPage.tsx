@@ -122,10 +122,6 @@ function RegisterPage() {
           </span>
           <span>FinSight</span>
         </Link>
-
-        <Link to="/login" className="login-top-btn">
-          Login
-        </Link>
       </nav>
 
       <section className="login-shell register-shell">

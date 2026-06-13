@@ -127,7 +127,7 @@ function LoginPage() {
 
       await sendPasswordResetEmail(auth, email);
 
-      setResetMessage("Password reset link sent to your email.");
+      setResetMessage("If this email is registered, a password reset link will be sent. Please check the Spam Folder");
     } catch {
       setResetMessage("Unable to send reset email. Please check your email.");
     } finally {
@@ -143,10 +143,6 @@ function LoginPage() {
             <BadgeIndianRupee size={24} />
           </span>
           <span>FinSight</span>
-        </Link>
-
-        <Link to="/register" className="login-top-btn">
-          Create Account
         </Link>
       </nav>
 
@@ -323,4 +319,4 @@ function LoginPage() {
   );
 }
 
-export default LoginPage;
+export default LoginPage; 
