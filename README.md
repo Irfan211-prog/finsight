@@ -6,13 +6,13 @@ The main idea of this project is to make money tracking easy. A user can add inc
 
 ## Live Demo
 
-Hosted URL: Not deployed yet
+Hosted URL: [Open FinSight](https://finsight-3oox8s575-irfan211-progs-projects.vercel.app)
 
 ## Demo Video
 
 Watch the project demo here:
 
-[Click here to watch the demo video](PASTE_YOUR_VIDEO_LINK_HERE)
+[Click here to watch the demo video](https://drive.google.com/file/d/1mr3aXoPti-0PlYnykeuSkjrXq4VHXnKz/view?usp=sharing)
 
 ## GitHub Repository
 
